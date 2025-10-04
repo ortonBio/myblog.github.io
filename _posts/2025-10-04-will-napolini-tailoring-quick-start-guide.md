@@ -25,25 +25,28 @@ tags:
     cloth-armor,
     tailoring-catchup
   ]
-image: https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759597254/tailoring_ilb22y.png
+image: https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759602278/tailoring_pmi5oe.png
 alt: 'WoW Tailoring Profession Guide - The War Within Quick Start'
 pin: false
 fallback:
 
 ---
+## TAILORING TRAINERS
 
-
-
-# TAILORING: QUICK START GUIDE
-
-![Tailoring Overview Banner](/Users/will/Downloads/tailoring.png)
-*Tailoring: A Quick Start Guide - The War Within*
+![Tailoring Trainer Map](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759602381/map_vxbebr.png)
+*You can learn the War Within Tailoring skill from the Tailoring trainer in Dornogal.*
 
 ## INTRODUCTION
 
 To create any item in the game, you'll need reagents. The quality of crafted items depends on your profession SKILL and the quality of materials you use—the higher your SKILL, the higher the final quality.
 
+![Tailoring Overview Banner](/Users/will/Downloads/tailoring.png)
+*Tailoring: A Quick Start Guide - The War Within*
+
 > **The higher SKILL you have the less concentration you have to spend crafting items with high quality**
+
+![Tailoring Overview Banner](/Users/will/Downloads/tailoring.png)
+*Tailoring: A Quick Start Guide - The War Within*
 
 > **The higher your skill level, the lower rank of reagents you can use to craft high-quality items.**
 
