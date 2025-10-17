@@ -1,12 +1,15 @@
 #  The contact options.
-
 - type: youtube
   icon: "fab fa-youtube"
   url: ""
   
 - type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  ''  # Fill with your Linkedin homepage
+  icon: 'fab fa-linkedin'
+  url: ''
+
+- type: telegram
+  icon: 'fab fa-telegram'
+  url: 'https://t.me/your_telegram_username'  # Replace with your Telegram username
 
 - type: github
   icon: "fab fa-github"
@@ -20,7 +23,7 @@
 
 # - type: email
 #   icon: "fas fa-envelope"
-#   noblank: true # open link in current tab
+#   noblank: true
 
 - type: rss
   icon: "fas fa-rss"
@@ -29,9 +32,8 @@
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-
+#   icon: 'fab fa-mastodon'
+#   url: ''
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+#   url: ''
