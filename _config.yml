@@ -38,6 +38,9 @@ github:
 twitter:
   username: willonsuccess # change to your twitter username
 
+telegram:
+  username: willonsuccess  # change to your actual Telegram username
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -51,6 +54,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
     - https://github.com/ortonBio/myblog.github.io
+    - https://t.me/your_telegram_username  # add this line
 
 # Site Verification Settings
 webmaster_verifications:
