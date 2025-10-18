@@ -180,7 +180,7 @@ Optional:
 {% include tip-card.html 
    icon="💡" 
    title="Pro Tip:" 
-   text="Additionally, the [Weaver’s Tutelage](https://www.wowhead.com/spell=442981) and [Weaver’s Prodigy](https://www.wowhead.com/spell=462810) buffs, unlocked through [reputation with the Severed Threads faction](https://www.wowhead.com/guide/the-war-within/renown/the-severed-threads), offer a 15% and 30% crafting speed increase respectively, making them highly valuable for mass crafting." 
+   text="Additionally, the <a href='https://www.wowhead.com/spell=442981' target='_blank'>Weaver's Tutelage</a> and <a href='https://www.wowhead.com/spell=462810' target='_blank'>Weaver's Prodigy</a> buffs, unlocked through <a href='https://www.wowhead.com/guide/the-war-within/renown/the-severed-threads' target='_blank'>reputation with the Severed Threads faction</a>, offer a 15% and 30% crafting speed increase respectively, making them highly valuable for mass crafting." 
 %}
 
 ### SKILL 1-10
