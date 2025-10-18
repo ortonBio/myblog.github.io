@@ -199,13 +199,13 @@ Use [Unraveling](https://www.wowhead.com/spell=446926) spell on 200× [Weaverclo
 - 510× [Spool of Weaverthread](https://www.wowhead.com/item=222795/spool-of-weaverthread)
 - 306× [Mosswool Thread](https://www.wowhead.com/item=224764)
 
+![Vendor](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759615181/will-napolini-tailoring-quick-start-guide-vendor_eackmv.png)
+
 {% include tip-card.html 
    icon="💡" 
    title="Note:" 
    text="<a href='https://www.wowhead.com/item=224764' target='_blank'>Mosswool Thread</a> is sold by <a href='https://www.wowhead.com/npc=219100/berred' target='_blank'>Berred</a> the tailoring supplies vendor near the trainer." 
 %}
-
-![Vendor](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759615181/will-napolini-tailoring-quick-start-guide-vendor_eackmv.png)
 
 ### SKILL 25-35
 
