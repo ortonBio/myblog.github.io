@@ -31,14 +31,46 @@ pin: false
 fallback:
 
 ---
+
+Struggling to find a reliable, up-to-date guide for {Profession} in World of Warcraft? Tired of wasting gold and time on outdated methods?
+
+You're in the right place. This guide breaks down everything you need to know about {Profession} in The War Within, based on in-game testing and the latest patch data. My goal is simple: help you level faster, earn more gold, and make confident decisions—without the fluff.
+
+Before we dive in, [join our Telegram community]() where you'll get:
+
+- **Latest patch news** the moment it drops
+- **Exclusive gold-making strategies** not shared publicly
+- **Time-sensitive market alerts** before the competition catches on
+- **Pro tips and insider guides** to stay ahead of the curve
+
+The game changes fast, and [our community]() ensures you're always first to know.
+
+{% include telegram-banner.html 
+   url="https://t.me/will_reads"
+   title="🔥 Stay Ahead of the Market"
+   subtitle="Exclusive gold-making secrets, patch alerts, and pro tips before anyone else"
+   cta_text="JOIN COMMUNITY"
+%}
+
+Let's get started.
+
 ## TAILORING TRAINERS
 
-![Tailoring Trainer Map](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759604009/will-napolini-tailoring-quick-start-guide-trainer-map_ph8fwl.png)
-> *You can learn the War Within Tailoring skill from the Tailoring trainer in Dornogal.*
+*You can learn the War Within Tailoring skill from the Tailoring trainer [Kotag](https://www.wowhead.com/ptr-2/npc=219094/kotag) in Dornogal*
 
-## FOUNDATION
+![Tailoring Trainer Map](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759604009/will-napolini-tailoring-quick-start-guide-trainer-map_ph8fwl.png)
+
+> **Pro Tip:** 
+> Craft higher-tier recipes while they still give SKILL points. This efficiently claims their mandatory first-time bonus while you still get leveling progress from them.
+
+## PROFESSION OVERVIEW
 
 To create any item in the game, you'll need reagents. The quality of crafted items depends on your profession SKILL and the quality of materials you use—the higher your SKILL, the higher the final quality.
+
+In the latest expansions, professions is also influenced by factors such as:
+
+- Chosen specialization
+- Quality of tools used
 
 ![Tailoring Overview Banner](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759603484/will-napolini-tailoring-quick-start-guide-skill_n1z8rn.png)
 > *The higher SKILL you have the less concentration you have to spend crafting items with high quality*
@@ -46,12 +78,7 @@ To create any item in the game, you'll need reagents. The quality of crafted ite
 ![Tailoring Overview Banner](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759604339/will-napolini-tailoring-quick-start-guide-skill-quality_zlyvgh.png)
 > *The higher your skill level, the lower rank of reagents you can use to craft high-quality items.*
 
-In the latest expansions, professions is also influenced by factors such as:
-
-- Chosen specialization
-- Quality of tools used
-
-## ESSENTIAL TOOLS AND SETUP
+### ESSENTIAL TOOLS AND ACCESSORIES
 
 Each main profession can craft profession-specific tools or accessories. High-quality versions require the rare reagent [Artisan's Acuity](https://www.wowhead.com/item=210814/artisans-acuity), in addition to standard materials.
 
@@ -65,7 +92,7 @@ The most reliable ways to obtain [Artisan's Acuity](https://www.wowhead.com/item
 
 For more info check this guide [Artisan's Acuity: Quick Start Guide](Link)
 
-### TOOL CREATION REQUIREMENTS
+#### TOOL CREATION REQUIREMENTS
 
 For creating blue-quality tools, we'll need approximately 900-1500 of [Artisan's Acuity](https://www.wowhead.com/item=210814/artisans-acuity), which we can obtain through the [Enchanting]() profession.
 
@@ -75,7 +102,7 @@ You have two options:
 
 ![Crafting Tools](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759606092/will-napolini-tailoring-quick-start-guide-crafting-tools_wm6vmp.png)
 
-### TOOL ENCHANTMENT OPTIONS
+#### TOOL ENCHANTMENT OPTIONS
 
 So you've got your fancy [Spring-Loaded Aqirite Fabric Cutters](https://www.wowhead.com/item=221787) - nice! 
 
@@ -95,19 +122,29 @@ This is where I switch to:
 
 You get the best of both worlds - saving mats AND sometimes getting bonus items!
 
-### Here's What Actually Happened in My Test:
+#### Here's What Actually Happened in My Test:
 
-I gathered enough stuff to make 100x [Weavercloth Bolt](https://www.wowhead.com/item=222804):
+So, I got enough reagents to make 1000x [Weavercloth Bolt](https://www.wowhead.com/item=222804):
 
-- **With my single-item setup:** I got [your results here] bolts
-- **With my stackable-item setup:** I got [your results here] bolts!
+- **With my single-item setup (31% Resourcefulness and 10% Multicraft):** I got 1478x [Weavercloth Bolts](https://www.wowhead.com/item=222804)
+- **With my stackable-item setup (19% Resourcefulness and 20% Multicraft):** I got 1652x [Weavercloth Bolts](https://www.wowhead.com/item=222804)
 
 The difference was pretty clear - the multicraft setup just gives you more bang for your buck when making stuff in bulk.
 
-**My rule of thumb:** Have two tools! One for gear (double resourcefulness) and one for commodities (multicraft + resourcefulness). Trust me, it's worth it.
+> **Pro Tip:** 
+> Have two tools! One for gear (double resourcefulness) and one for commodities (multicraft + resourcefulness). Trust me, it's worth it.
+
+#### Available Tailoring Tools and Accessories:
+
+| Slot | Crafted by | Green | Blue |
+|------|------------|-------|------|
+| Accessory 1 | Blacksmithing | [Proficient Needle Set](https://www.wowhead.com/ptr-2/spell=450270) | [Artisan Needle Set](https://www.wowhead.com/ptr-2/spell=450278) |
+| Accessory 2 | Tailoring | [Weavercloth Tailor's Coat](https://www.wowhead.com/ptr-2/spell=446967) | [Artisan Tailor's Coat](https://www.wowhead.com/ptr-2/spell=446975) |
+| Tool | Engineering | [Spring-Loaded Bismuth Fabric Cutters](https://www.wowhead.com/ptr-2/spell=447322) | [Spring-Loaded Aqirite Fabric Cutters](https://www.wowhead.com/ptr-2/spell=447323) |
 
 
-## LEVELING GUIDE
+
+## LEVELING
 
 ### SHOPPING LIST (SKILL 1-65)
 
@@ -119,11 +156,13 @@ The difference was pretty clear - the multicraft setup just gives you more bang 
 - 30×  [Writhing Sample](https://www.wowhead.com/item=213611) 
 - 4× [Leyline Residue](https://www.wowhead.com/item=213613) 
 
+Optional: 
 
-> ⚠️ **First Craft Knowledge Bonus** > **Your first time crafting any item grants a precious Khaz Algar Tailoring Knowledge point.** These points are heavily limited per week.
+- [Aerated Phial of Quick Hands](https://www.wowhead.com/item=197720) - Increases crafting speed by up to 30%.
+- [Phial of Bountiful Seasons](https://www.wowhead.com/item=212314) -  Drink to increase your Finesse during the Summer or your Resourcefulness during the Winter.
 
 > **Pro Tip:** 
-> Craft higher-tier recipes while they still give SKILL points. This efficiently claims their mandatory first-time bonus while you still get leveling progress from them.
+> Additionally, the [Weaver’s Tutelage](https://www.wowhead.com/spell=442981) and [Weaver’s Prodigy](https://www.wowhead.com/spell=462810) buffs, unlocked through [reputation with the Severed Threads faction](https://www.wowhead.com/guide/the-war-within/renown/the-severed-threads), offer a 15% and 30% crafting speed increase respectively, making them highly valuable for mass crafting.
 
 ### SKILL 1-10
 
