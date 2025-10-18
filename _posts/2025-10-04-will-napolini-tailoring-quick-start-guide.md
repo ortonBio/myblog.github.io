@@ -60,8 +60,11 @@ Let's get started.
 
 ![Tailoring Trainer Map](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759604009/will-napolini-tailoring-quick-start-guide-trainer-map_ph8fwl.png)
 
-> **Pro Tip:** 
-> Craft higher-tier recipes while they still give SKILL points. This efficiently claims their mandatory first-time bonus while you still get leveling progress from them.
+{% include tip-card.html 
+   icon="💡" 
+   title="Pro Tip:" 
+   text="Craft higher-tier recipes while they still give SKILL points. This efficiently claims their mandatory first-time bonus while you still get leveling progress from them." 
+%}
 
 ## PROFESSION OVERVIEW
 
@@ -73,10 +76,20 @@ In the latest expansions, professions is also influenced by factors such as:
 - Quality of tools used
 
 ![Tailoring Overview Banner](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759603484/will-napolini-tailoring-quick-start-guide-skill_n1z8rn.png)
-> *The higher SKILL you have the less concentration you have to spend crafting items with high quality*
+
+{% include tip-card.html 
+   icon="💡" 
+   title="Pro Tip:" 
+   text="The higher SKILL you have the less concentration you have to spend crafting items with high quality" 
+%}
 
 ![Tailoring Overview Banner](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759604339/will-napolini-tailoring-quick-start-guide-skill-quality_zlyvgh.png)
-> *The higher your skill level, the lower rank of reagents you can use to craft high-quality items.*
+
+{% include tip-card.html 
+   icon="💡" 
+   title="Pro Tip:" 
+   text="The higher your skill level, the lower rank of reagents you can use to craft high-quality items." 
+%}
 
 ### ESSENTIAL TOOLS AND ACCESSORIES
 
@@ -131,8 +144,11 @@ So, I got enough reagents to make 1000x [Weavercloth Bolt](https://www.wowhead.c
 
 The difference was pretty clear - the multicraft setup just gives you more bang for your buck when making stuff in bulk.
 
-> **Pro Tip:** 
-> Have two tools! One for gear (double resourcefulness) and one for commodities (multicraft + resourcefulness). Trust me, it's worth it.
+{% include tip-card.html 
+   icon="💡" 
+   title="Pro Tip:" 
+   text="Have two tools! One for gear (double resourcefulness) and one for commodities (multicraft + resourcefulness). Trust me, it's worth it." 
+%}
 
 #### Available Tailoring Tools and Accessories:
 
@@ -161,8 +177,11 @@ Optional:
 - [Aerated Phial of Quick Hands](https://www.wowhead.com/item=197720) - Increases crafting speed by up to 30%.
 - [Phial of Bountiful Seasons](https://www.wowhead.com/item=212314) -  Drink to increase your Finesse during the Summer or your Resourcefulness during the Winter.
 
-> **Pro Tip:** 
-> Additionally, the [Weaver’s Tutelage](https://www.wowhead.com/spell=442981) and [Weaver’s Prodigy](https://www.wowhead.com/spell=462810) buffs, unlocked through [reputation with the Severed Threads faction](https://www.wowhead.com/guide/the-war-within/renown/the-severed-threads), offer a 15% and 30% crafting speed increase respectively, making them highly valuable for mass crafting.
+{% include tip-card.html 
+   icon="💡" 
+   title="Pro Tip:" 
+   text="Additionally, the [Weaver’s Tutelage](https://www.wowhead.com/spell=442981) and [Weaver’s Prodigy](https://www.wowhead.com/spell=462810) buffs, unlocked through [reputation with the Severed Threads faction](https://www.wowhead.com/guide/the-war-within/renown/the-severed-threads), offer a 15% and 30% crafting speed increase respectively, making them highly valuable for mass crafting." 
+%}
 
 ### SKILL 1-10
 
@@ -180,7 +199,11 @@ Use [Unraveling](https://www.wowhead.com/spell=446926) spell on 200× [Weaverclo
 - 510× [Spool of Weaverthread](https://www.wowhead.com/item=222795/spool-of-weaverthread)
 - 306× [Mosswool Thread](https://www.wowhead.com/item=224764)
 
-> **Note:** [Mosswool Thread](https://www.wowhead.com/item=224764) is sold by [Berred](https://www.wowhead.com/npc=219100/berred) the tailoring supplies vendor near the trainer.
+{% include tip-card.html 
+   icon="💡" 
+   title="Note:" 
+   text="[Mosswool Thread](https://www.wowhead.com/item=224764) is sold by [Berred](https://www.wowhead.com/npc=219100/berred) the tailoring supplies vendor near the trainer." 
+%}
 
 ![Vendor](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759615181/will-napolini-tailoring-quick-start-guide-vendor_eackmv.png)
 
@@ -227,7 +250,11 @@ Make 3 profession accessory items.
 - 3× [Adorning Ribbon](https://www.wowhead.com/item=228930)
 - 3× [Weavercloth Bolt](https://www.wowhead.com/item=222804)
 
-> **Tip:** Make the hood first, as it will turn yellow at level 40. [Adorning Ribbon](https://www.wowhead.com/item=228930) is sold by the supplier.
+{% include tip-card.html 
+   icon="💡" 
+   title="Note:" 
+   text="Make the hood first, as it will turn yellow at level 40. [Adorning Ribbon](https://www.wowhead.com/item=228930) is sold by the supplier." 
+%}
 
 #### SKILL 37-39
 
@@ -283,7 +310,11 @@ If you're not too concerned about losing gold, crafting the [Duskthread Lining](
 
 ![Dawnthread Lining](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759619285/will-napolini-tailoring-quick-start-guide-auction_hqf6xg.png)
 
-> **Note:** [Dawnthread Lining](https://www.wowhead.com/spell=446991) recipe can be bought on the Auction House. It requires a SKILL level of 35 to learn.
+{% include tip-card.html 
+   icon="💡" 
+   title="Note:" 
+   text="[Dawnthread Lining](https://www.wowhead.com/spell=446991) recipe can be bought on the Auction House. It requires a SKILL level of 35 to learn." 
+%}
 
 If you have a lot of alts, crafting bags like [The Severed Satchel](https://www.wowhead.com/spell=454431/the-severed-satchel) might be the best option.
 
