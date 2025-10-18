@@ -202,7 +202,7 @@ Use [Unraveling](https://www.wowhead.com/spell=446926) spell on 200× [Weaverclo
 {% include tip-card.html 
    icon="💡" 
    title="Note:" 
-   text="[Mosswool Thread](https://www.wowhead.com/item=224764) is sold by [Berred](https://www.wowhead.com/npc=219100/berred) the tailoring supplies vendor near the trainer." 
+   text="<a href='https://www.wowhead.com/item=224764' target='_blank'>Mosswool Thread</a> is sold by <a href='https://www.wowhead.com/npc=219100/berred' target='_blank'>Berred</a> the tailoring supplies vendor near the trainer." 
 %}
 
 ![Vendor](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1759615181/will-napolini-tailoring-quick-start-guide-vendor_eackmv.png)
@@ -253,7 +253,7 @@ Make 3 profession accessory items.
 {% include tip-card.html 
    icon="💡" 
    title="Note:" 
-   text="Make the hood first, as it will turn yellow at level 40. [Adorning Ribbon](https://www.wowhead.com/item=228930) is sold by the supplier." 
+   text="Make the hood first, as it will turn yellow at level 40. <a href='https://www.wowhead.com/item=228930' target='_blank'>Adorning Ribbon</a> is sold by the supplier." 
 %}
 
 #### SKILL 37-39
@@ -313,7 +313,7 @@ If you're not too concerned about losing gold, crafting the [Duskthread Lining](
 {% include tip-card.html 
    icon="💡" 
    title="Note:" 
-   text="[Dawnthread Lining](https://www.wowhead.com/spell=446991) recipe can be bought on the Auction House. It requires a SKILL level of 35 to learn." 
+   text="<a href='https://www.wowhead.com/spell=446991' target='_blank'>Dawnthread Lining</a> recipe can be bought on the Auction House. It requires a SKILL level of 35 to learn." 
 %}
 
 If you have a lot of alts, crafting bags like [The Severed Satchel](https://www.wowhead.com/spell=454431/the-severed-satchel) might be the best option.
