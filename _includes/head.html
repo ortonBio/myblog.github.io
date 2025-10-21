@@ -119,4 +119,26 @@
     };
   </script>
   <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+  
+  <!-- Fix internal links automatically -->
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+      const links = document.querySelectorAll('a[href]');
+      
+      links.forEach(link => {
+          const href = link.getAttribute('href');
+          if (!href) return;
+          
+          // Fix old domain links
+          if (href.includes('github.com/ortonBio/myblog.github.io')) {
+              link.setAttribute('href', href.replace('https://github.com/ortonBio/myblog.github.io', ''));
+          }
+          
+          // Convert absolute to relative for current domain
+          if (href.startsWith(window.location.origin)) {
+              link.setAttribute('href', href.replace(window.location.origin, '') || '/');
+          }
+      });
+  });
+  </script>
 </head>
