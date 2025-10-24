@@ -16,17 +16,19 @@ timezone:
 
 title: Will Napolini # the main title
 
-tagline: Мышление • Навыки • Инструменты # it will display as the sub-title
+tagline: Mindset • Skillset • Toolset # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Уилл Наполини — автор блога о книгах по саморазвитию, психологии и продуктивности. Читайте обзоры книг, краткие конспекты и практические инсайты. Вместе разбираем лучшие книги: от классики до современных бестселлеров. Узнайте, как применять идеи из книг в жизни, бизнесе и карьере.  
+  Will Napoli is the author of a blog dedicated to books on self-development, psychology, and productivity. Read book reviews, brief summaries, and practical insights. Together, we explore the best books: from classics to modern bestsellers. Learn how to apply ideas from books to your life, business, and career.
+  
+  In the blog, you will find:
+  
+  • **Book Summaries** — key ideas in 5 minutes,
+  • **Analysis and Breakdowns** — how to apply knowledge in practice,
+  • **Book Selections** — top picks by topic: leadership, thinking, science.
+  
 
-  В блоге вы найдете:  
-  • **Конспекты книг** — ключевые идеи за 5 минут,  
-  • **Анализ и разбор** — как применять знания на практике,  
-  • **Подборки книг** — топ по темам: лидерство, мышление, наука.  
-
-  Подпишитесь, чтобы получать лучшие идеи из нон-фикшн литературы!  
+  Subscribe to get the best ideas from non-fiction literature!  
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
