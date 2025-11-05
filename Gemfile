@@ -1,8 +1,10 @@
 # frozen_string_literal: true
-
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.3"
+
+# Fix for sass-embedded build issue with Ruby 3.1.6
+gem "sass-embedded", "~> 1.69.5"
 
 group :test do
   gem "html-proofer", "~> 4.4"
