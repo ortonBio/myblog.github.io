@@ -236,9 +236,6 @@ From 75 to 100, we are going to craft Weapon Enchantments that are in high deman
 - 10x [Ringing Deeps Ingot](https://www.wowhead.com/item=221754/ringing-deeps-ingot)
 
 
-> **Note:**  To unlock this enchant in your specialisation tree
-
-
 
 ### 80 - 88 (Optional)
 
