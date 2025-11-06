@@ -172,7 +172,7 @@ From 1 to 25 I use Disenchanting or Shattering
 
 ## 25 - 47 (Recommended Path)
 
-By allocating **5 points** into the **Ephemerals, Enrichments, and Equipment** specialization and then **15 points** into the **[Deceptive Decorations](https://www.wowhead.com/profession-trait/99939)** sub-specialization, you'll unlock **22 new recipes**.
+By allocating **5 points** into the **[Ephemerals, Enrichments, and Equipment](https://www.wowhead.com/profession-trait/ephemerals-enrichments-and-equipment-99940)** specialization and then **15 points** into the **[Deceptive Decorations](https://www.wowhead.com/profession-trait/99939)** sub-specialization, you'll unlock **22 new recipes**.
 
 ![Deceptive Decorations](https://res.cloudinary.com/dlkv9y3s2/image/upload/v1762291620/will-napolini-enchanting-quick-start-guide-skill-25-50_p5caid.png) 
 
