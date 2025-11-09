@@ -3,7 +3,7 @@ title: "Alchemy: Quick Start Guide"
 description: >-
   Complete WoW Alchemy guide for Midnight. Learn the most efficient 1-100 leveling path, optimal tool setups, specialization builds, and Knowledge Point farming strategies to master Alchemy fast.
 date: 2025-11-05 00:00:00 +0800
-categories: [Midnight, Professions, Alchemy]
+categories: [midnight, professions, alchemy]
 tags:
   [
     wow-alchemy,
