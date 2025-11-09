@@ -3,7 +3,7 @@ title: "Tailoring: Quick Start Guide"
 description: >-
   Complete WoW Tailoring guide for Midnight. Learn efficient 1-100 leveling path, tool optimization, specialization builds, and knowledge farming strategies to master the cloth profession.
 date: 2025-11-05 00:00:00 +0800
-categories: [Professions,  Tailoring]
+categories: [Midnight, Professions, Tailoring]
 tags:
   [
     wow-tailoring,
