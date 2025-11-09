@@ -133,7 +133,7 @@ The difference was pretty clear - the multicraft setup just gives you more bang 
 
 | Slot | Crafted by | Green | Blue | Epic |
 |------|------------|-------|------|------|
-| Accessory 1 | Tailoring | [Bright Linen Alchemy Apron](https://www.wowhead.com/beta/item=239641/bright-linen-alchemy-apron) | [Elegant Artisan's Alchemy Coveralls](https://www.wowhead.com/beta/item=239635/elegant-artisans-alchemy-coveralls) | [Super Elegant Artisan's Alchemy Coveralls](https://www.wowhead.com/beta/item=239635/elegant-artisans-alchemy-coveralls) |
+| Accessory 1 | Tailoring | [Bright Linen Alchemy Apron](https://www.wowhead.com/beta/item=239641/bright-linen-alchemy-apron) | [Elegant Artisan's Alchemy Coveralls](https://www.wowhead.com/beta/item=239635/elegant-artisans-alchemy-coveralls) | [Super Elegant Artisan's Alchemy Coveralls](https://www.wowhead.com/beta/item=246521/super-elegant-artisans-alchemy-coveralls) |
 | Accessory 2 | Leatherworking | [Chemist's Cap](https://www.wowhead.com/beta/item=244620/chemists-cap) | [Sin'dorei Alchemist's Hat](https://www.wowhead.com/beta/item=244626/sindorei-alchemists-hat) | [Thalassian Alchemist's Mixcap](https://www.wowhead.com/beta/item=244812/thalassian-alchemists-mixcap) |
 | Tool | Inscription | [Hobbyist Alchemist's Mixing Rod](http://wowhead.com/beta/item=245777/hobbyist-alchemists-mixing-rod) | [Sin'dorei Alchemist's Mixing Rod](https://www.wowhead.com/beta/item=245778/sindorei-alchemists-mixing-rod) | [Super Sin'dorei Alchemist's Mixing Rod](https://www.wowhead.com/beta/item=259205/super-sindorei-alchemists-mixing-rod) |
 
@@ -223,7 +223,7 @@ We can use [Recycle Potions](https://www.wowhead.com/beta/item=242637/recycle-po
 
 From now on, we have two options to craft profession phials on demand, such as [Haranir Phial of Perception](https://www.wowhead.com/beta/spell=1230873/haranir-phial-of-perception), which we can buy for 150 [Artisan Alchemist's Moxie](https://www.wowhead.com/beta/currency=3256/artisan-alchemists-moxie) from [Naynar](https://www.wowhead.com/beta/npc=240407/naynar); or craft [Wondrous Synergist](https://www.wowhead.com/beta/spell=1230856/wondrous-synergist), which we can unlock in the transmutation specialization tree by allocating 5 KPs in [Transmutation Authority](https://www.wowhead.com/beta/profession-trait/sindorei-finery-104216) and 20 KPs in [Synthesis Synergy](https://www.wowhead.com/beta/profession-trait/synthesis-synergy-107255).
 
-> **Note:** We can get 24 KPs by [collecting 8 Alchemy treasures](https://www.wowhead.com/guide/the-war-within/professions/knowledge-point-treasure-locations).
+> **Note:** We can get 24 KPs by [collecting 8 Alchemy treasures]().
 
 **Create:** 3 × [Wondrous Synergist](https://www.wowhead.com/beta/spell=1230856/wondrous-synergist)
 
