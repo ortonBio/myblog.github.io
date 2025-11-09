@@ -3,7 +3,7 @@ title: "Tailoring: Quick Start Guide"
 description: >-
   Complete WoW Tailoring guide for Midnight. Learn efficient 1-100 leveling path, tool optimization, specialization builds, and knowledge farming strategies to master the cloth profession.
 date: 2025-11-05 00:00:00 +0800
-categories: [Midnight, Professions, Tailoring]
+categories: [Professions,  Tailoring]
 tags:
   [
     wow-tailoring,
@@ -145,34 +145,25 @@ The difference was pretty clear - the Multicraft setup just gives you more bang 
 
 ### SHOPPING LIST
 
-Below is the complete list of all reagents needed to craft every recipe once for Knowledge Points (86 total):
+Below is the complete list of all reagents needed to follow the specified leveling path from Skill 1 to 60:
 
-- x120 [Silverleaf Thread](https://www.wowhead.com/beta/item=251665)
-
-- x120 [Embroidery Floss](https://www.wowhead.com/beta/item=251691/embroidery-floss)
-
-- x100 [Bright Linen](https://www.wowhead.com/beta/item=236963)
-
-- x24 [Bright Linen Bolt](https://www.wowhead.com/beta/item=239700)
-
-- x102 [Imbued Bright Linen Bolt](https://www.wowhead.com/beta/item=239702)
-
-- x22 [Eversinging Dust](https://www.wowhead.com/beta/item=243599/eversinging-dust)
-
-- x30 [Mote of Primal Energy](https://www.wowhead.com/beta/item=236950/mote-of-primal-energy)
-
-- x160 [Sunfire Silk](https://www.wowhead.com/beta/item=237015/sunfire-silk)
-
-- x50 [Sunfire Silk Bolt](https://www.wowhead.com/beta/item=239201/sunfire-silk-bolt)
+- **x125** [Silverleaf Thread](https://www.wowhead.com/beta/item=251665)
+- **x25** [Embroidery Floss](https://www.wowhead.com/beta/item=251691/embroidery-floss)
+- **x100** [Bright Linen](https://www.wowhead.com/beta/item=236963)
+- **x55** [Bright Linen Bolt](https://www.wowhead.com/beta/item=239700)
+- **x20** [Imbued Bright Linen Bolt](https://www.wowhead.com/beta/item=239702) 
+- **x10** [Eversinging Dust](https://www.wowhead.com/beta/item=243599/eversinging-dust)
+- **x30** [Mote of Primal Energy](https://www.wowhead.com/beta/item=236950/mote-of-primal-energy)
+- **x160** [Sunfire Silk](https://www.wowhead.com/beta/item=237015/sunfire-silk)
+- **x50** [Sunfire Silk Bolt](https://www.wowhead.com/beta/item=239201/sunfire-silk-bolt)
 
 > **Note:**
-> This shopping list contains ALL base reagents needed to craft every available recipe one time for Knowledge Points. However, not all recipes are available immediately - many must be unlocked through:
+> This shopping list contains the exact reagents needed to follow the 1-60 leveling path. You will craft intermediate items (bolts) from these base materials. Plan your specialization path first, as additional recipes beyond this leveling route require different materials and must be unlocked through:
 > - Profession Specialization trees
-> - Vendor purchases
+> - Vendor purchases  
 > - World drops or reputation rewards
-> - Quest completion
-> 
-> Plan your specialization path first, then gather these materials to craft recipes as you unlock them.
+
+
 
 
 Optional: 
@@ -183,10 +174,8 @@ Optional:
 - [Argentleaf Tea](https://www.wowhead.com/beta/item=242298) -  Drink to increase your Finesse and Speed.
 - [Sanguithorn Tea](https://www.wowhead.com/beta/item=242299) -  Drink to increase your Perception and Speed.
 - [Haranir Phial of Ingenuity](https://www.wowhead.com/beta/item=241312) -  Drink to increase your Ingenuity and Speed.
-- [Haranir Phial of Perception](https://www.wowhead.com/beta/item=241316) -  Drink to increase your Perception and Deftness.
-- [Haranir Phial of Finesse](https://www.wowhead.com/beta/item=241311) -  Drink to increase your Finesse and Deftness.
 - [Midnight Phial of Concentrated Ingenuity](https://www.wowhead.com/beta/item=241314) -  Drink to increase your Perception and Speed.
-- [Refulgent Razorstone](https://www.wowhead.com/beta/item=237373) -  Use to increase your Finesse.
+
 
 > **Pro Tip:** 
 > Additionally, the [Weaver’s Tutelage](https://www.wowhead.com/spell=442981) and [Weaver’s Prodigy](https://www.wowhead.com/spell=462810) buffs, unlocked through [reputation with the Severed Threads faction](https://www.wowhead.com/guide/the-war-within/renown/the-severed-threads), offer a 15% and 30% crafting speed increase respectively, making them highly valuable for mass crafting.
