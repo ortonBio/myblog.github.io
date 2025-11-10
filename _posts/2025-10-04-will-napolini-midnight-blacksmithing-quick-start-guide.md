@@ -149,8 +149,9 @@ Below is the complete list of all reagents needed to follow the specified leveli
 
 - x250 [Luminant Flux](https://www.wowhead.com/beta/item=243060)
 - x500 [Refulgent Copper Ore](https://www.wowhead.com/beta/item=237359)
-- x500 [Brilliant Silver Ore](https://www.wowhead.com/beta/item=237364)
-- x500 [Umbral Tin Ore](https://www.wowhead.com/beta/item=237362)
+- x240 [Brilliant Silver Ore](https://www.wowhead.com/beta/item=237364)
+- x6 [Umbral Tin Ore](https://www.wowhead.com/beta/item=237362)
+- x5 [Duskshrouded Stone](https://www.wowhead.com/beta/item=242788)
 
 > **Note:**
 > This shopping list contains ALL base reagents needed to craft every available recipe one time for Knowledge Points. However, not all recipes are available immediately - many must be unlocked through:
@@ -175,6 +176,8 @@ Optional:
 > Additionally, the [Weaver’s Tutelage](https://www.wowhead.com/spell=442981) and [Weaver’s Prodigy](https://www.wowhead.com/spell=462810) buffs, unlocked through [reputation with the Severed Threads faction](https://www.wowhead.com/guide/the-war-within/renown/the-severed-threads), offer a 15% and 30% crafting speed increase respectively, making them highly valuable for mass crafting.
 
 ### SKILL 1 - 25
+
+Before crafting anything, make sure to buy at least a green tool according to my Multicraft setup.
 
 #### 1 - 10
 
@@ -288,6 +291,21 @@ Optional:
 ### SKILL 50 - 100
 
 From now on, we have two options to craft profession gear on demand, such as [Sunforged Sickle](https://www.wowhead.com/beta/spell=1264651), which we can buy for 150 [Artisan Tailor's Moxie](https://www.wowhead.com/beta/currency=3266/artisan-tailors-moxie) from [Eriden](https://www.wowhead.com/beta/npc=241451) or [Lyrendal](https://www.wowhead.com/beta/npc=243286); or craft any epic gear such as [Farstrider's Mercy](https://www.wowhead.com/beta/spell=1229659), which we can unlock in the Weaponsmithing specialization tree by allocating 10 KPs in [Blades](https://www.wowhead.com/beta/profession-trait/blades-104632).
+
+**Optional:**
+
+We can craft [Dazzling Alloy](https://www.wowhead.com/beta/spell=1230763) until it reaches 70 skill, when it turns gray.
+
+#### 50 - 70
+
+**Create:** 
+
+- 40 × [Dazzling Alloy](https://www.wowhead.com/beta/spell=1230763)
+
+**Required:**
+- x160 [Luminant Flux](https://www.wowhead.com/beta/item=243060)
+- x240 [Brilliant Silver Ore](https://www.wowhead.com/beta/item=237364)
+- x120 [Refulgent Copper Ingot](https://www.wowhead.com/beta/item=238197)
 
 
 ## CONCLUSION
