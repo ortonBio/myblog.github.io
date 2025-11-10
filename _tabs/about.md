@@ -3,27 +3,21 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
 <!-- ![About](/assets/img/headers/digitalden2.webp) -->
+Hi, I'm Will — a lifelong learner, avid gamer, and content creator passionate about sharing powerful strategies from World of Warcraft, the latest gaming gear, and turning complex topics into practical insights.
 
-Привет, я Уилл — вечный ученик, книжный червь и создатель контента, увлечённый тем, чтобы извлекать мощные идеи из великих книг и превращать их в практические инсайты.
+This blog is where I share in-depth guides, quick tips, and thoughts on topics that have expanded my horizons — from gaming and technology to AI, automation, productivity, and even a bit of blogging wisdom. Whether you're looking to master WoW mechanics, discover the best gaming equipment, or explore hidden gems in tech and automation, my goal is to make the best ideas more accessible and applicable in real life.
 
-Этот блог — место, где я делюсь глубокими обзорами, краткими конспектами и размышлениями о книгах, которые расширили мой кругозор — от технологий и продуктивности до психологии, лидерства и даже немного квантовой физики. Независимо от того, хотите ли вы изучать вечную классику или открыть для себя скрытые жемчужины, моя цель — сделать лучшие идеи с книжной полки более доступными и применимыми в реальной жизни.
+## What You'll Find Here
+I break down content into:
+- **Guides**: Concise and comprehensive walkthroughs of key strategies and mechanics
+- **Insights**: Personal reflections and how I apply ideas in everyday gaming and life
+- **Thematic Collections**: Curated content by topic (e.g., raiding strategies, gear optimization, automation tools)
 
-## Что вы найдёте здесь
-
-Я разбираю книги на:
-
-- **Конспекты**: Краткие и ёмкие пересказы ключевых идей  
-- **Инсайты**: Личные размышления и то, как я применяю идеи в повседневной жизни  
-- **Тематические гиды**: Подборки книг по темам (например, принятие решений, инновации, системное мышление)
-
-## Контакты
-
-Если у вас есть вопросы, предложения или вы просто хотите пообщаться — я всегда рад новым знакомствам!
+## Contact
+If you have questions, suggestions, or just want to chat — I'm always happy to connect!
  
-💬 **Telegram**: [@will_reads](https://t.me/will_reads)  
+💬 **Telegram**: [@wowoffhead](https://t.me/wowoffhead)  
 
-## Дисклеймер
-
-Некоторые ссылки на книги и продукты на этом сайте являются партнёрскими (affiliate links). Это значит, что если вы перейдёте по такой ссылке и совершите покупку, я могу получить небольшую комиссию — без дополнительной стоимости для вас. Это помогает поддерживать блог и продолжать делиться полезным контентом. Спасибо за вашу поддержку!
+## Disclaimer
+Some links to products and services on this site are affiliate links. This means that if you click through and make a purchase, I may receive a small commission — at no extra cost to you. This helps support the blog and allows me to continue sharing useful content. Thank you for your support!
