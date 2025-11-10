@@ -177,11 +177,11 @@ Optional:
 
 ### SKILL 60 - 85
 
-I recommend getting the [Flora Frenzy](https://www.wowhead.com/beta/spell=1226200) recipe from [Gomphusta](https://www.wowhead.com/beta/npc=242765/gomphusta) in Harandar.
+I recommend getting the [Flora Frenzy](https://www.wowhead.com/beta/spell=1259660/flora-frenzy) recipe from [Gomphusta](https://www.wowhead.com/beta/npc=242765/gomphusta) in Harandar.
 
 #### 60 - 85
 
-**Create:** 15 × [Flora Frenzy](https://www.wowhead.com/beta/spell=1226200)
+**Create:** 15 × [Flora Frenzy](https://www.wowhead.com/beta/spell=1259660/flora-frenzy)
 
 **Required:**
 
