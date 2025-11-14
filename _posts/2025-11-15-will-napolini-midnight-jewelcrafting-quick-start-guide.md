@@ -136,16 +136,15 @@ You get the best of both worlds - saving mats AND sometimes getting bonus items!
 
 #### Here's What Actually Happened in My Test:
 
-So, I got enough reagents to make 1000x [Sienna Ink](https://www.wowhead.com/beta/item=245806):
+So, I got enough reagents to make 1000x [Sin'dorei Lens](https://www.wowhead.com/beta/spell=1230475/sindorei-lens):
 
-- **With my Resourcefulness setup:** I got 1478x [Sienna Ink](https://www.wowhead.com/beta/item=245806)
-- **With my Multicraft setup:** I got 1652x [Sienna Ink](https://www.wowhead.com/beta/item=245806)
+- **With my Resourcefulness setup:** I got 1478x [Sin'dorei Lens](https://www.wowhead.com/beta/spell=1230475/sindorei-lens)
+- **With my Multicraft setup:** I got 1652x [Sin'dorei Lens](https://www.wowhead.com/beta/spell=1230475/sindorei-lens)
 
 The difference was pretty clear - the multicraft setup just gives you more bang for your buck when making stuff in bulk.
 
 > **Pro Tip:** 
 > Have two tools! One for gear (double Resourcefulness) and one for commodities (double Multicraft). Trust me, it's worth it.
-
 
 ## LEVELING
 
@@ -163,7 +162,7 @@ Below is the complete list of all reagents needed to follow the specified leveli
 - 2x [Flawless Amani Lapis](https://www.wowhead.com/beta/item=242612/flawless-amani-lapis)
 - 2x [Flawless Harandar Peridot](https://www.wowhead.com/beta/item=242610/flawless-harandar-peridot)
 - 2x [Flawless Tenebrous Amethyst](https://www.wowhead.com/beta/item=242611/flawless-tenebrous-amethyst)
-- 30x [Glimmering Gemdust](https://www.wowhead.com/beta/item=242620/glimmering-gemdust)
+- 35x [Glimmering Gemdust](https://www.wowhead.com/beta/item=242620/glimmering-gemdust)
 
 
 
