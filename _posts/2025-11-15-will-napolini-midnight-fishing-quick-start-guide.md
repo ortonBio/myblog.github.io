@@ -76,7 +76,6 @@ In the *Midnight* expansion, fishing has been enhanced with new mechanics includ
 - Specialized fishing lures for targeting specific fish types
 - Zone-specific rare fish with unique uses
 - Fishing tools and gear that significantly boost your efficiency
-- Knowledge points that unlock powerful fishing abilities
 
 Understanding these core mechanics is essential, but knowing the most efficient path to mastery is what separates casual fishers from gold-making experts. Wasting time in the wrong zones or using suboptimal gear is a common mistake—which is exactly what we'll help you avoid.
 
