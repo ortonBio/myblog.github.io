@@ -2,7 +2,7 @@
 title: "Midnight Profession Knowledge Treasures: Complete Location Guide"
 description: >-
   Complete treasure location guide for Midnight expansion profession knowledge points. Find all 8 treasures per profession across Eversong Woods, Zul'Aman, Harandar, and The Voidstorm with coordinates, TomTom commands, and collection tracking for Alchemy, Blacksmithing, Enchanting, Engineering, Inscription, Jewelcrafting, Leatherworking, Tailoring, Herbalism, Mining, and Skinning.
-date: 2025-11-16 00:00:00 +0800
+date: 2025-11-15 00:00:00 +0800
 categories: [midnight, professions, knowledge-farming]
 tags: [
   midnight-professions,
