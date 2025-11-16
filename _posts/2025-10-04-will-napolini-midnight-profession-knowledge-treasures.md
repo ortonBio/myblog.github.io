@@ -1,14 +1,14 @@
 ---
 title: "Midnight Profession Knowledge Treasures: Complete Location Guide"
 description: >-
-  Complete treasure location guide for WoW Midnight profession knowledge points. Find all 8 treasures per profession across Eversong Woods, Zul'Aman, Harandar, and Voidstorm with coordinates, TomTom commands, and collection tracking for Alchemy, Blacksmithing, Enchanting, Engineering, Inscription, Jewelcrafting, Leatherworking, Tailoring, Herbalism, Mining, and Skinning.
-date: 2025-11-15 00:00:00 +0800
+  Complete treasure location guide for Midnight expansion profession knowledge points. Find all 8 treasures per profession across Eversong Woods, Zul'Aman, Harandar, and The Voidstorm with coordinates, TomTom commands, and collection tracking for Alchemy, Blacksmithing, Enchanting, Engineering, Inscription, Jewelcrafting, Leatherworking, Tailoring, Herbalism, Mining, and Skinning.
+date: 2025-11-16 00:00:00 +0800
 categories: [midnight, professions, knowledge-farming]
 tags: [
   midnight-professions,
   profession-knowledge,
   knowledge-treasures,
-  quelthalas,
+  midnight-zones,
   treasure-locations,
   tomtom-waypoints,
   silvermoon-city,
@@ -31,11 +31,10 @@ tags: [
   skinning-treasures,
   wow-treasures,
   profession-guide,
-  worldsoul-saga,
-  midnight-expansion
+  midnight-guide
 ]
 image: https://res.cloudinary.com/dlkv9y3s2/image/upload/v1763259718/2025-10-04-will-napolini-midnight-profession-knowledge-treasures_vutfp0.png
-alt: 'WoW Midnight Profession Knowledge Treasure Locations - Complete Guide for All Professions Across Quel'Thalas'
+alt: 'Midnight Profession Knowledge Treasure Locations - Complete Guide for All Professions'
 pin: false
 fallback:
 ---
